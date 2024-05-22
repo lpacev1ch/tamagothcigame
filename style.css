@@ -1,0 +1,384 @@
+@font-face {
+    font-family: "InkyThinPixels";
+    src: url("fonts/Inky-Thin-Pixels_0.ttf");
+  }
+
+body{
+    /*margin: 0px auto;*/
+    font-family: InkyThinPixels;
+    overflow: scroll;
+    max-width: 390px;
+    position: relative;
+    }
+    
+    h1, h2, h3, h4, h5, h6{
+        font-family: InkyThinPixels;
+    }
+
+    .container{
+        font-family: InkyThinPixels;
+    }
+
+
+
+    /*Главное меню*/
+
+    .background_home{
+        background-image: url(img/mainBack.jpeg);
+        height: 610px;
+        background-size: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .cashHome{
+        background-image: url(img/vmoney.PNG);
+        position: absolute;
+        top: 10px;
+        left: 60px;
+        width: 50px;
+        height: 50px;
+        border: none;
+    }
+
+
+    /*навигация*/
+
+    .shopButton{
+        position: absolute;
+        top: 540px;
+        left: 70px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background-image: url(#);
+        background-size: cover;
+    }
+
+    .eatButton{
+        position: absolute;
+        top: 540px;
+        left: 140px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background-image: url(#);
+        background-size: cover;
+    }
+
+    .sleepButton{
+        position: absolute;
+        top: 540px;
+        right: 140px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background-image: url(#);
+        background-size: cover;
+    }
+
+    .playButton{
+        position: absolute;
+        top: 540px;
+        right: 70px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background-image: url(#);
+        background-size: cover;
+    }
+
+
+    .workButton{
+        position: absolute;
+        top: 70px;
+        right: 15px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background-image: url(#);
+        background-size: cover;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*Shop*/
+
+    .background_shop{
+        background-image: url(img/shopBack.jpeg);
+        height: 610px;
+        background-size: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .cashShop{
+        background-image: url(img/vmoney.PNG);
+        position: absolute;
+        top: 8px;
+        left: 60px;
+        width: 50px;
+        height: 50px;
+        border: none;
+    }
+    
+
+    /*products*/
+
+    .prod1Button{
+        position: absolute;
+        top: 130px;
+        left: 50px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(img/prod1.PNG);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+    }
+
+    .prod2Button{
+        position: absolute;
+        top: 130px;
+        left: 125px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(img/prod2.PNG);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+    .prod3Button{
+        position: absolute;
+        top: 130px;
+        left: 205px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(img/prod3.PNG);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+
+    .prod4Button{
+        position: absolute;
+        top: 215px;
+        left: 50px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(#);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+    .prod5Button{
+        position: absolute;
+        top: 215px;
+        left: 125px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(#);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+    .prod6Button{
+        position: absolute;
+        top: 215px;
+        left: 205px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(#);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+
+    .prod7Button{
+        position: absolute;
+        top: 300px;
+        left: 50px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(#);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+    .prod8Button{
+        position: absolute;
+        top: 300px;
+        left: 125px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(#);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+    .prod9Button{
+        position: absolute;
+        top: 300px;
+        left: 205px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(#);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+    /*навигация*/
+
+    .mainButton{
+        position: absolute;
+        top: 535px;
+        left: 173px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background-image: url(#);
+        background-size: cover;
+    }
+
+    .frontButton{
+        position: absolute;
+        top: 535px;
+        right: 95px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background-image: url(#);
+        background-size: cover;
+    }
+
+    .backButton{
+        position: absolute;
+        top: 535px;
+        left: 95px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background-image: url(#);
+        background-size: cover;
+    }
+
+
+
+
+
+
+
+    /*Donate Shop*/
+    .background_shop{
+        background-image: url(img/shopBack.jpeg);
+        height: 610px;
+        background-size: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .cashShop{
+        background-image: url(img/vmoney.PNG);
+        position: absolute;
+        top: 8px;
+        left: 60px;
+        width: 50px;
+        height: 50px;
+        border: none;
+    }
+    
+
+    /*products*/
+
+    .prodDonate1Button{
+        position: absolute;
+        top: 130px;
+        left: 50px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(#);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+    }
+
+    .prodDonate2Button{
+        position: absolute;
+        top: 130px;
+        left: 125px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(#);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+    .prodDonate3Button{
+        position: absolute;
+        top: 130px;
+        left: 205px;
+        width: 42.5px;
+        height: 42.5px;
+        border: none;
+        background: none;
+        background-image: url(#);
+        background-size: cover;
+        font-family: InkyThinPixels;
+        text-decoration: none;
+        color: #FFD300;
+    }
+
+
+    

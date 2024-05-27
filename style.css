@@ -47,7 +47,7 @@ body{
     .shopButton{
         position: absolute;
         top: 540px;
-        left: 70px;
+        left: 18%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -58,7 +58,7 @@ body{
     .eatButton{
         position: absolute;
         top: 540px;
-        left: 140px;
+        left: 35%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -69,7 +69,7 @@ body{
     .sleepButton{
         position: absolute;
         top: 540px;
-        right: 140px;
+        right: 35%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -80,7 +80,7 @@ body{
     .playButton{
         position: absolute;
         top: 540px;
-        right: 70px;
+        right: 18%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -92,7 +92,7 @@ body{
     .workButton{
         position: absolute;
         top: 70px;
-        right: 15px;
+        right: 4%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -140,7 +140,7 @@ body{
     .prod1Button{
         position: absolute;
         top: 130px;
-        left: 50px;
+        left: 13%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -149,12 +149,13 @@ body{
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
+        color: #FFD300;
     }
 
     .prod2Button{
         position: absolute;
         top: 130px;
-        left: 125px;
+        left: 32%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -169,7 +170,7 @@ body{
     .prod3Button{
         position: absolute;
         top: 130px;
-        left: 205px;
+        left: 52%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -185,7 +186,7 @@ body{
     .prod4Button{
         position: absolute;
         top: 215px;
-        left: 50px;
+        left: 13%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -200,7 +201,7 @@ body{
     .prod5Button{
         position: absolute;
         top: 215px;
-        left: 125px;
+        left: 32%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -215,7 +216,7 @@ body{
     .prod6Button{
         position: absolute;
         top: 215px;
-        left: 205px;
+        left: 52%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -231,7 +232,7 @@ body{
     .prod7Button{
         position: absolute;
         top: 300px;
-        left: 50px;
+        left: 13%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -246,7 +247,7 @@ body{
     .prod8Button{
         position: absolute;
         top: 300px;
-        left: 125px;
+        left: 32%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -261,7 +262,7 @@ body{
     .prod9Button{
         position: absolute;
         top: 300px;
-        left: 205px;
+        left: 52%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -278,7 +279,7 @@ body{
     .mainButton{
         position: absolute;
         top: 535px;
-        left: 173px;
+        left: 44%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -289,7 +290,7 @@ body{
     .frontButton{
         position: absolute;
         top: 535px;
-        right: 95px;
+        right: 24%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -300,7 +301,7 @@ body{
     .backButton{
         position: absolute;
         top: 535px;
-        left: 95px;
+        left: 24%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -339,7 +340,7 @@ body{
     .prodDonate1Button{
         position: absolute;
         top: 130px;
-        left: 50px;
+        left: 13%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -353,7 +354,7 @@ body{
     .prodDonate2Button{
         position: absolute;
         top: 130px;
-        left: 125px;
+        left: 32%;
         width: 42.5px;
         height: 42.5px;
         border: none;
@@ -368,7 +369,7 @@ body{
     .prodDonate3Button{
         position: absolute;
         top: 130px;
-        left: 205px;
+        left: 52%;
         width: 42.5px;
         height: 42.5px;
         border: none;

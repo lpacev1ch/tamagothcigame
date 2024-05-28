@@ -134,7 +134,7 @@ body{
     }
 
     .cashShop{
-        background-image: url(img/vmoney.PNG);
+        background-image: url(img/vmoney.png);
         position: absolute;
         top: 8px;
         left: 60px;
@@ -154,7 +154,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(img/prod1.PNG);
+        background-image: url(img/prod1.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -169,7 +169,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(img/prod2.PNG);
+        background-image: url(img/prod2.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -184,7 +184,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(img/prod3.PNG);
+        background-image: url(img/prod3.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;

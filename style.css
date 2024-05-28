@@ -41,6 +41,15 @@ body{
         border: none;
     }
 
+    .cashHome2{
+        position: absolute;
+        top: 25px;
+        left: 102px;
+        color: #FFD300;
+        
+    }
+
+
 
     /*навигация*/
 

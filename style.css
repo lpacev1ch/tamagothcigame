@@ -24,7 +24,7 @@ body{
     /*Главное меню*/
 
     .background_home{
-        background-image: url(img/mainBack.jpg);
+        background-image: url(img/main.jpg);
         height: 610px;
         background-size: no-repeat;
         background-position: center;
@@ -34,7 +34,7 @@ body{
     .cashHome{
         background-image: url(img/vmoney.png);
         position: absolute;
-        top: 10px;
+        top: 15px;
         left: 60px;
         width: 50px;
         height: 50px;
@@ -43,7 +43,7 @@ body{
 
     .cashHome2{
         position: absolute;
-        top: 25px;
+        top: 30px;
         left: 102px;
         color: #FFD300;
         
@@ -54,7 +54,7 @@ body{
 
     .shopButton{
         position: absolute;
-        top: 540px;
+        top: 535px;
         left: 18%;
         width: 42.5px;
         height: 42.5px;
@@ -65,7 +65,7 @@ body{
 
     .eatButton{
         position: absolute;
-        top: 540px;
+        top: 535px;
         left: 35%;
         width: 42.5px;
         height: 42.5px;
@@ -76,7 +76,7 @@ body{
 
     .sleepButton{
         position: absolute;
-        top: 540px;
+        top: 535px;
         right: 35%;
         width: 42.5px;
         height: 42.5px;
@@ -87,7 +87,7 @@ body{
 
     .playButton{
         position: absolute;
-        top: 540px;
+        top: 535px;
         right: 18%;
         width: 42.5px;
         height: 42.5px;
@@ -291,28 +291,31 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
-        background-image: url(#);
+        background: none;
+        background-image: url(img/mainButt.png);
         background-size: cover;
     }
 
     .frontButton{
         position: absolute;
-        top: 535px;
+        top: 540px;
         right: 24%;
-        width: 42.5px;
-        height: 42.5px;
+        width: 44.06px;
+        height: 32px;
         border: none;
+        background: none;
         background-image: url(img/frontButt.png);
         background-size: cover;
     }
 
     .backButton{
         position: absolute;
-        top: 535px;
+        top: 540px;
         left: 24%;
-        width: 42.5px;
-        height: 42.5px;
+        width: 44.06px;
+        height: 32px;
         border: none;
+        background: none;
         background-image: url(img/backButt.png);
         background-size: cover;
     }
@@ -335,7 +338,7 @@ body{
     .cashShop{
         background-image: url(img/vmoney.png);
         position: absolute;
-        top: 8px;
+        top: 13px;
         left: 60px;
         width: 50px;
         height: 50px;
@@ -357,6 +360,7 @@ body{
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
+        color: #FFD300;
     }
 
     .prodDonate2Button{

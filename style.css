@@ -24,7 +24,7 @@ body{
     /*Главное меню*/
 
     .background_home{
-        background-image: url(img/mainBack.jpeg);
+        background-image: url(img/mainBack.jpg);
         height: 610px;
         background-size: no-repeat;
         background-position: center;
@@ -32,7 +32,7 @@ body{
     }
 
     .cashHome{
-        background-image: url(img/vmoney.png);
+        background-image: url(img/vmoney.PNG);
         position: absolute;
         top: 10px;
         left: 60px;
@@ -48,7 +48,6 @@ body{
         color: #FFD300;
         
     }
-
 
 
     /*навигация*/
@@ -126,7 +125,7 @@ body{
     /*Shop*/
 
     .background_shop{
-        background-image: url(img/shopBack.jpeg);
+        background-image: url(img/shopBack.jpg);
         height: 610px;
         background-size: no-repeat;
         background-position: center;
@@ -134,7 +133,7 @@ body{
     }
 
     .cashShop{
-        background-image: url(img/vmoney.png);
+        background-image: url(img/vmoney.PNG);
         position: absolute;
         top: 8px;
         left: 60px;
@@ -154,7 +153,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(img/prod1.png);
+        background-image: url(img/prod1.PNG);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -169,7 +168,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(img/prod2.png);
+        background-image: url(img/prod2.PNG);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -184,7 +183,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(img/prod3.png);
+        background-image: url(img/prod3.PNG);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -200,7 +199,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(#);
+        background-image: url(img/prod4.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -215,7 +214,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(#);
+        background-image: url(img/prod5.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -230,7 +229,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(#);
+        background-image: url(img/prod6.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -246,7 +245,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(#);
+        background-image: url(img/prod7.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -276,7 +275,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(#);
+        background-image: url(img/prod9.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -303,7 +302,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
-        background-image: url(#);
+        background-image: url(img/frontButt.png);
         background-size: cover;
     }
 
@@ -314,7 +313,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
-        background-image: url(#);
+        background-image: url(img/backButt.png);
         background-size: cover;
     }
 
@@ -326,7 +325,7 @@ body{
 
     /*Donate Shop*/
     .background_shop{
-        background-image: url(img/shopBack.jpeg);
+        background-image: url(img/shopBack.jpg);
         height: 610px;
         background-size: no-repeat;
         background-position: center;

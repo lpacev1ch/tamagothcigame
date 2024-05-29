@@ -3,8 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <link href = "style.css" type = "text/css" rel = "stylesheet">
+    <script src="main.js" defer></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Donate shop</title>
+
 </head>
 <body>
    <div class = "container">
@@ -21,20 +23,20 @@
 
         <!--низ-->
 
-            <button class = "backButton"><a href = "shop.html">B</button>    
+            <a href = "shop.html"><button class = "backButton"></button></a>    
 
-            <button class = "mainButton"><a href = "index.html">H</button>
+            <a href = "index.html"><button class = "mainButton"></button></a>
 
-            <button class = "frontButton"><a href = "shopdonate.html">F</button>
+            <a href = "shopdonate.html"><button class = "frontButton"></button></a>
 
 
         <!--товары-->
 
-            <button class = "prodDonate1Button">Buy</button>
+            <button class = "prodDonate1Button" onclick="tamagotchi.buyDonateProd1()">Buy</button>
 
-            <button class = "prodDonate2Button">Buy</button> 
+            <button class = "prodDonate2Button" onclick="tamagotchi.buyDonateProd2()">Buy</button> 
             
-            <button class = "prodDonate3Button">Buy</button>
+            <button class = "prodDonate3Button" onclick="tamagotchi.buyDonateProd3()">Buy</button>
 
                 
         </div>
@@ -43,4 +45,7 @@
 
     </div>
 </body>
+
+    <script src="main.js"></script>
+
 </html>

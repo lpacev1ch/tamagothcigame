@@ -126,14 +126,14 @@ class Tamagotchi {
         this.money -= 5;
         this.inventory.bed++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
-        alert("Вы купили кровать!");
+        alert("Вы купили маску для сна!");
     }
 
     buyBed2() {
         this.money -= 5;
         this.inventory.bed++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
-        alert("Вы купили кровать!");
+        alert("Вы купили ночник!");
     }
 
     buyBed3() {
@@ -143,6 +143,17 @@ class Tamagotchi {
         alert("Вы купили кровать!");
     }
 
+    buyDonateProd1() {
+
+    }
+
+    buyDonateProd2() {
+        
+    }
+
+    buyDonateProd3() {
+        
+    }
     checkStatus() {
         if (this.hunger > 5 || this.boredom > 5 || this.tiredness > 5) {
             alert(`Питомец умер :(`);

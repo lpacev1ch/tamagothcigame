@@ -24,7 +24,7 @@ body{
     /*Главное меню*/
 
     .background_home{
-        background-image: url(img/main.jpg);
+        background-image: url(img/main.png);
         height: 610px;
         background-size: no-repeat;
         background-position: center;
@@ -59,7 +59,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
-        background-image: url(#);
+        background-image: url(img/shopButt.png);
         background-size: cover;
     }
 
@@ -70,7 +70,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
-        background-image: url(#);
+        background-image: url(img/eatButt1.png);
         background-size: cover;
     }
 
@@ -81,7 +81,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
-        background-image: url(#);
+        background-image: url(img/sleepButt1.png);
         background-size: cover;
     }
 
@@ -92,7 +92,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
-        background-image: url(#);
+        background-image: url(img/playButt1.png);
         background-size: cover;
     }
 
@@ -104,7 +104,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
-        background-image: url(#);
+        background-image: url(img/workButt.png);
         background-size: cover;
     }
 
@@ -260,7 +260,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(#);
+        background-image: url(img/prod8.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;

@@ -81,63 +81,63 @@ class Tamagotchi {
     }
 
     buyFood1() {
-        this.money -= 5;
+        this.money -= 100;
         this.inventory.food++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
         alert("Вы купили еду!");
     }
     
     buyFood2() {
-        this.money -= 5;
+        this.money -= 300;
         this.inventory.food++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
         alert("Вы купили еду!");
     }
 
     buyFood3() {
-        this.money -= 5;
+        this.money -= 500;
         this.inventory.food++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
         alert("Вы купили еду!");
     }
 
     buyToy1() {
-        this.money -= 5;
+        this.money -= 100;
         this.inventory.toy++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
         alert("Вы купили игрушку!");
     }
 
     buyToy2() {
-        this.money -= 5;
+        this.money -= 300;
         this.inventory.toy++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
         alert("Вы купили игрушку!");
     }
 
     buyToy3() {
-        this.money -= 5;
+        this.money -= 500;
         this.inventory.toy++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
         alert("Вы купили игрушку!");
     }
 
     buyBed1() {
-        this.money -= 5;
+        this.money -= 100;
         this.inventory.bed++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
         alert("Вы купили маску для сна!");
     }
 
     buyBed2() {
-        this.money -= 5;
+        this.money -= 300;
         this.inventory.bed++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
         alert("Вы купили ночник!");
     }
 
     buyBed3() {
-        this.money -= 5;
+        this.money -= 500;
         this.inventory.bed++;
         this.updateMoneyDisplay(); // Обновляем отображение денег
         alert("Вы купили кровать!");
@@ -151,7 +151,7 @@ class Tamagotchi {
         
     }
 
-    buyDonateProd3() {
+    buyDonateProd() {
         
     }
     checkStatus() {

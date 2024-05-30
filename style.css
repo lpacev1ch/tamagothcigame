@@ -59,6 +59,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
+        background: none;
         background-image: url(img/shopButt.png);
         background-size: cover;
     }
@@ -70,6 +71,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
+        background: none;
         background-image: url(img/eatButt1.png);
         background-size: cover;
     }
@@ -81,6 +83,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
+        background: none;
         background-image: url(img/sleepButt1.png);
         background-size: cover;
     }
@@ -92,6 +95,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
+        background: none;
         background-image: url(img/playButt1.png);
         background-size: cover;
     }
@@ -104,6 +108,7 @@ body{
         width: 42.5px;
         height: 42.5px;
         border: none;
+        background: none;
         background-image: url(img/workButt.png);
         background-size: cover;
     }

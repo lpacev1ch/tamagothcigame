@@ -144,16 +144,18 @@ class Tamagotchi {
     }
 
     buyDonateProd1() {
-
+        alert("Недостаточно донатной валюты")
     }
 
     buyDonateProd2() {
-        
+        alert("Недостаточно донатной валюты")
     }
 
     buyDonateProd() {
-        
+        alert("Недостаточно донатной валюты")
     }
+
+    
     checkStatus() {
         if (this.hunger > 5 || this.boredom > 5 || this.tiredness > 5) {
             alert(`Питомец умер :(`);

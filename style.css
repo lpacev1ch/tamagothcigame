@@ -361,7 +361,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(#);
+        background-image: url(img/egg1.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -376,7 +376,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(#);
+        background-image: url(img/egg2.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -391,7 +391,7 @@ body{
         height: 42.5px;
         border: none;
         background: none;
-        background-image: url(#);
+        background-image: url(img/egg3.png);
         background-size: cover;
         font-family: InkyThinPixels;
         text-decoration: none;
@@ -399,4 +399,4 @@ body{
     }
 
 
-    
+   

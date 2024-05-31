@@ -151,7 +151,7 @@ class Tamagotchi {
         alert("Недостаточно донатной валюты")
     }
 
-    buyDonateProd() {
+    buyDonateProd3() {
         alert("Недостаточно донатной валюты")
     }
 
